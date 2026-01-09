@@ -17,5 +17,8 @@
     "url": "https://github.com/Kumar-Adarsh-Singh/Chatify/issues"
   },
   "homepage": "https://github.com/Kumar-Adarsh-Singh/Chatify#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6"
+  }
 }
